@@ -1,1 +1,86 @@
-# Resume
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 0 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2 {
+            color: #2c3e50;
+            border-bottom: 2px solid #2980b9;
+            padding-bottom: 5px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .short-description {
+            font-style: italic;
+            margin-bottom: 20px;
+        }
+    </style>
+         <link rel="stylesheet" 
+href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Soham Thakur</h1>
+        <div class="CONTACT">
+            <p>Email: sohamt24@iimb.ac.in</p>
+        </div>
+    </header>
+
+    <section class="short-description section">
+        <h2>Profile</h2>
+        <p>
+            Motivated and innovative BBA student specializing in Digital Business and Entrepreneurship at IIM Bangalore.
+            Possesses a strong foundation in digital strategy, e-commerce, and startup development. 
+            Demonstrates a proactive approach to problem-solving and a keen interest in leveraging technology to drive business growth.
+            Committed to continuous learning and applying entrepreneurial principles to real-world challenges.​        </p>
+    </section>
+
+    <section class="EDUCATION">
+        <h2>Education</h2>
+        <ul>
+            <li><strong>Bachelor of Business Administration</strong>, IIM Bangalore (2024 - 2027)</li>
+            <li><strong>Bachelor of Business Administration</strong>, BIT MESRA,Ranchi (2024 - 2027)</li>
+            <li><strong>12th </strong>,CHINMAYA VIDYALAYA,BOKARO STEEL CITY (PCM Stream)</li>
+            <li><strong>10th </strong>,DAV PUBLIC SCHOOL</li>
+        </ul>
+    </section>
+
+    <section class="SKILLS">
+        <h2>Skills</h2>
+        <ul>
+            <li>I strongly believe in team work as it yields better output</li>
+            <li>I have enough fluency in English,Hindi and Regional language</li>
+            <li>Observent-I observe things around me and look for changes that can be made</li>
+            <li>I am a continous learner and I am never shy of learning new things.</li>
+            
+        </ul>
+    </section>
+
+    <section class="EXPERIENCE">
+        <h2>EXPERIENCE</h2>
+        <ul>
+            <li>I don't have enough prior experience that can be metioned as of now, but I am continuously working to build my Portfolio.
+                Creating this website as a part of my course is one of my initial experiments in HTML which I think will turn out with flying colours.</li>            
+   
+        </ul>
+    </section>
+</body>
+</html>
